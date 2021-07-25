@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="google-auth-icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="25.768497"
+     inkscape:cy="6.0359474"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.64999)">
+    <g
+       id="g827"
+       transform="matrix(0.31750001,0,0,0.31750001,0.06349993,290.64999)">
+      <path
+         style="fill:#4285f4"
+         inkscape:connector-curvature="0"
+         id="path2"
+         d="M 19.6,10.23 C 19.6,9.41 19.5,8.81 19.35,8.18 H 10 v 3.72 h 5.5 c -0.15,0.96 -0.74,2.31 -2.04,3.22 v 2.45 h 3.16 c 1.89,-1.73 2.98,-4.3 2.98,-7.34 z" />
+      <path
+         style="fill:#34a853"
+         inkscape:connector-curvature="0"
+         id="path4"
+         d="m 13.46,15.13 c -0.83,0.59 -1.96,1 -3.46,1 -2.64,0 -4.88,-1.74 -5.68,-4.15 H 1.07 V 14.5 C 2.72,17.75 6.09,20 10,20 c 2.7,0 4.96,-0.89 6.62,-2.42 z" />
+      <path
+         style="fill:#fbbc05"
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="M 3.99,10 C 3.99,9.31 4.11,8.65 4.31,8.03 V 5.51 H 1.07 A 9.973,9.973 0 0 0 0,10 c 0,1.61 0.39,3.14 1.07,4.49 L 4.31,11.97 C 4.11,11.35 3.99,10.69 3.99,10 Z" />
+      <path
+         style="fill:#ea4335"
+         inkscape:connector-curvature="0"
+         id="path8"
+         d="m 10,3.88 c 1.88,0 3.13,0.81 3.85,1.48 L 16.69,2.6 C 14.96,0.99 12.7,0 10,0 6.09,0 2.72,2.25 1.07,5.51 L 4.31,8.03 C 5.12,5.62 7.36,3.88 10,3.88 Z" />
+    </g>
+  </g>
+</svg>

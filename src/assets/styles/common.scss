@@ -1,0 +1,27 @@
+/********************************************************************************
+  Common CSS Selectors
+********************************************************************************/
+
+// For authentication forms where the fields containers are set to
+// a certain fixed width.
+.mp-auth-fields-container {
+  width: 28rem;
+}
+
+
+
+
+
+/********************************************************************************
+  PrimveVue Overrides
+********************************************************************************/
+
+// Overrides the default PrimeVue message text padding so it looks
+// a little bit more roomy on the left and right sides.
+.p-message.p-component {
+  .p-message-wrapper {
+    .p-message-text {
+      padding: 0 1rem;
+    }
+  }
+}
